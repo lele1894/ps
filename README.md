@@ -54,3 +54,5 @@ ps/
 ├── script.js        # 核心逻辑和算法
 └── README.md        # 本说明文档
 ```
+推送命令
+git add -A && git commit -m "更新说明" && git push origin main
